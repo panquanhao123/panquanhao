@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    我不要图片
     <router-view/>
   </div>
 </template>
