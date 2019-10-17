@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     我不要图片
+    我是大哥
     <router-view/>
   </div>
 </template>
